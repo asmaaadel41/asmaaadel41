@@ -41,8 +41,8 @@ I graduated from the faculty of computer science and information with grades (Ex
   <a href="https://linkedin.com/in/asmaaadel41" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://behance.com/asmaaadel14" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Behance&logoColor=white"/></a>
   <a href="https://asmaaadel12272@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01098706373)
-
+  <a href="https://api.whatsapp.com/send?phone=01098706373"><img  src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
+ 
 </div>
 <br>
 <br>
