@@ -43,7 +43,8 @@ I graduated from the faculty of computer science and information with grades (Ex
   <a href="https://asmaaadel12272@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send/?phone=01098706373" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 </div>
-
+<br>
+<br>
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 </div>
