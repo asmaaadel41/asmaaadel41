@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   Welcome to Asmaa Adel's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
+</h1>
+<br>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -17,7 +17,7 @@
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
  -->
 
-<h3>🚀 About Me</h3> 
+<h2>🚀 About Me</h2> 
 <p> 
 An ambitious frontend developer seeking a new challenge in a reputable organization in the field of software development as a frontend developer using the angular framework. <br>
 I graduated from the faculty of computer science and information with grades (Excellent with honor), then I graduated from ITI 9 months from the track (user interface and web development) and I have an experience in Angular.</p>
@@ -47,9 +47,9 @@ I graduated from the faculty of computer science and information with grades (Ex
 <br>
 <br>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 </div>
-
+<br>
 <div>
   <a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
       <img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
