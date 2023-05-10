@@ -2,12 +2,11 @@
   Welcome to Asmaa Adel's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<br>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <!-- - 🏢 I'm a Frontend Developer (Angular). -->
@@ -16,7 +15,7 @@
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
  -->
-
+<br>
 <h3>🚀 About Me</h3> 
 <p> 
 An ambitious frontend developer seeking a new challenge in a reputable organization in the field of software development as a frontend developer using the angular framework. <br>
@@ -47,5 +46,9 @@ My hobbies are Reading, Arting and Designing.
   <a href="https://api.whatsapp.com/send?phone=01098706373" target="_blank"><img  src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
 </div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
-<a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge"></a>
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
+</a>
