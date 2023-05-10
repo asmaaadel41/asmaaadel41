@@ -24,7 +24,8 @@ I graduated from the faculty of computer science and information with grades (Ex
 <br>
 I graduated from ITI 9 months from the track (user interface and web development).
 <br>
-I have an experience in Angular.</p>
+My hobbies are Reading, Arting and Designing.
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
