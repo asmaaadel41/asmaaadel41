@@ -17,11 +17,14 @@
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
  -->
 
-<h2>🚀 About Me</h2> 
+<h3>🚀 About Me</h3> 
 <p> 
 An ambitious frontend developer seeking a new challenge in a reputable organization in the field of software development as a frontend developer using the angular framework. <br>
-I graduated from the faculty of computer science and information with grades (Excellent with honor), then I graduated from ITI 9 months from the track (user interface and web development) and I have an experience in Angular.</p>
-
+I graduated from the faculty of computer science and information with grades (Excellent with honor). 
+<br>
+I graduated from ITI 9 months from the track (user interface and web development).
+<br>
+I have an experience in Angular.</p>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -34,8 +37,7 @@ I graduated from the faculty of computer science and information with grades (Ex
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-
-<h2>Contact Me :</h2>
+<h3>🔗 Contact Me :</h3>
 
 <div>
   <a href="https://linkedin.com/in/asmaaadel41" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -46,13 +48,5 @@ I graduated from the faculty of computer science and information with grades (Ex
 </div>
 <br>
 <br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-</div>
-
-<div>
-  <a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
-  </a>
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
+<a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge"></a>
