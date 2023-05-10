@@ -23,7 +23,7 @@ An ambitious frontend developer seeking a new challenge in a reputable organizat
 I graduated from the faculty of computer science and information with grades (Excellent with honor), then I graduated from ITI 9 months from the track (user interface and web development) and I have an experience in Angular.</p>
 
 
-### 🛠 &nbsp;Tech Stack
+<h2> 🛠 &nbsp;Tech Stack </h2>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
@@ -35,7 +35,7 @@ I graduated from the faculty of computer science and information with grades (Ex
 
 
 
-### Contact Me :
+<h2>Contact Me :</h2>
 
 <div>
   <a href="https://linkedin.com/in/asmaaadel41" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -49,7 +49,7 @@ I graduated from the faculty of computer science and information with grades (Ex
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 </div>
-<br>
+
 <div>
   <a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
       <img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge">
