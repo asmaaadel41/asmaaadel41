@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to Asmaa Adel's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -27,9 +27,8 @@ I graduated from the faculty of computer science and information with grades (Ex
 
 <a href="https://linkedin.com/in/asmaaadel41" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://behance.com/asmaaadel14" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Behance&logoColor=white"/></a>
-<!-- <a href="https://t.me/asmaaael99" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> -->
-<a href="asmaaadel12272@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01005074554)
+<a href="https://asmaaadel12272@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01098706373)
 
 
 ### 🛠 &nbsp;Tech Stack
