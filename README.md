@@ -44,9 +44,7 @@ I have an experience in Angular.</p>
   <a href="https://behance.com/asmaaadel14" target="_blank"><img src="https://img.shields.io/badge/-Asmaa%20Adel-0077B5?style=for-the-badge&logo=Behance&logoColor=white"/></a>
   <a href="https://asmaaadel12272@gmail.com" target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=01098706373" target="_blank"><img  src="https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
- 
 </div>
-<br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaaadel41&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages"/>
 <a href="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=asmaaadel41&style=for-the-badge"></a>
